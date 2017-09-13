@@ -12,6 +12,7 @@ their activities.  The x data include the sensor measurements, the y data indica
 ### Code
 The code downloads the file from the source, draws the data into dataframes, and processes them to produce a tidy dataset containing
 only the average values for each subject and activity.
+The code is located in this repo, named run_analysis.R
 
 ### Assignment Instructions
 * Merges the training and the test sets to create one data set.
